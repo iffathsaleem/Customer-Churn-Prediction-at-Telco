@@ -15,4 +15,8 @@ This repository contains our project on predicting and analyzing customer churn 
 - Model performance evaluation  
 - Customer retention strategy insights  
 
-**Stay ahead in the telecom industry by leveraging predictive analytics!**
+**Group Members:**
+- Govindu Sathruwan
+- Iffath Saleem
+- Abdullah Sheriffdeen
+- Shahik Shiyam
