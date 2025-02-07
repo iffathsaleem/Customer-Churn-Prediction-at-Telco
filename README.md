@@ -18,5 +18,6 @@ This repository contains our project on predicting and analyzing customer churn 
 **Group Members:**
 - Govindu Sathruwan
 - Iffath Saleem
-- Abdullah Sheriffdeen
 - Shahik Shiyam
+- Abdullah Sheriffdeen
+- Aaisha Aamina
